@@ -19,4 +19,4 @@ A free e-library for developer to read and upload ebooks they would like to shar
 - Sanity IO [backend & database]
 - Netlify [hosting]
 
-[Learn More about techlib](www.youtube.com/@MohamedElbahoutyTB)
+[Learn More about techlib](youtube.com/@MohamedElbahoutyTB/videos)
